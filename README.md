@@ -1,9 +1,5 @@
-![](https://expertweblancer.github.io/images/logo.png)
+![](logo.png)
 
-# Expertweblancer
-
- 
-  
 
 My Word:
 
