@@ -1,5 +1,5 @@
 ![](logo.png)
-https://github-readme-stats.vercel.app/api?username=expertweblancer&show_icons=true&theme=radical
+ 
 
 
 My Word:
@@ -13,5 +13,5 @@ You are Magical
 You are Unique
 You are Awesome
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expertweblancer)](https://github.com/Expertweblancer/github-readme-stats)
  
