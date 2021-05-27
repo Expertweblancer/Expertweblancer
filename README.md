@@ -15,7 +15,7 @@ You are Awesome
 
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Expertweblancer&count_private=true&count_private=true&show_icons=true&theme=dark)](https://github.com/Expertweblancer/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Expertweblancer&count_private=true&count_private=true&show_icons=true&theme=merko)](https://github.com/Expertweblancer/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expertweblancer&layout=compact&theme=dark)](https://github.com/Expertweblancer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expertweblancer&layout=compact&theme=merko)](https://github.com/Expertweblancer/github-readme-stats)
  
