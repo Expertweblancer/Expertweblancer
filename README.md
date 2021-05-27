@@ -13,5 +13,9 @@ You are Magical
 You are Unique
 You are Awesome
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expertweblancer)](https://github.com/Expertweblancer/github-readme-stats)
+<br/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Expertweblancer&count_private=true&count_private=true&theme=midnight-purple)](https://github.com/Expertweblancer/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expertweblancer&layout=compact&theme=midnight-purple)](https://github.com/Expertweblancer/github-readme-stats)
  
