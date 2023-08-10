@@ -14,8 +14,6 @@ You are Awesome!
 ![Expertweblancer Contributes](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertweblancer&theme=radical)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=expertweblancer&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" /></p>
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=expertweblancer&show_icons=true&theme=radical)
 
