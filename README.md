@@ -17,17 +17,10 @@ You are Awesome!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=expertweblancer&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=expertweblancer&&theme=radical" alt= "wissal-mn"width=497" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=expertweblancer&show_icons=true&theme=radical)
 
 
 
-
-<br>
-<a href="![Expertweblancer github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=expertweblancer)" style="background-color: #08304f">
-  <img src="https://stats.hyochan.dev/api/github-stats?login=expertweblancer&theme=radical" width="500" />
-</a>
-
-
-[![Expertweblancer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WissalManseri&bg_color=141321&color=58a3ad&line=00858a&point=f1f297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Expertweblancer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=expertweblancer&bg_color=141321&color=58a3ad&line=00858a&point=f1f297&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
